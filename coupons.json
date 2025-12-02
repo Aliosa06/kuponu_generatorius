@@ -1,0 +1,154 @@
+[
+  {
+    "id": "7QBPG28A",
+    "code": "ETS-100-7QBPG28A",
+    "amount": "100",
+    "validUntil": "2026-01-01",
+    "createdAt": "2025-12-02T19:02:23.070Z"
+  },
+  {
+    "id": "C5DEA4L2",
+    "code": "ETS-100-C5DEA4L2",
+    "amount": "100",
+    "validUntil": "2026-01-01",
+    "createdAt": "2025-12-02T19:05:03.082Z"
+  },
+  {
+    "id": "PSA9H4T4",
+    "code": "ETS-100-PSA9H4T4",
+    "amount": "100",
+    "validUntil": "2026-05-01",
+    "createdAt": "2025-12-02T19:05:24.779Z"
+  },
+  {
+    "id": "2NNK2XG5",
+    "code": "ETS-100-2NNK2XG5",
+    "amount": "100",
+    "validUntil": "2026-02-02",
+    "createdAt": "2025-12-02T19:06:02.011Z"
+  },
+  {
+    "id": "CO8VJ8CO",
+    "code": "ETS-100-CO8VJ8CO",
+    "amount": "100",
+    "validUntil": "2026-10-20",
+    "createdAt": "2025-12-02T19:08:10.018Z"
+  },
+  {
+    "id": "JFS9I547",
+    "code": "ETS-100-JFS9I547",
+    "amount": "100",
+    "validUntil": "2026-01-01",
+    "createdAt": "2025-12-02T19:12:13.389Z"
+  },
+  {
+    "id": "NYL43KJV",
+    "code": "ETS-100-NYL43KJV",
+    "amount": "100",
+    "validUntil": "2020-01-01",
+    "createdAt": "2025-12-02T19:13:04.117Z"
+  },
+  {
+    "id": "LU3JMGG8",
+    "code": "ETS-100-LU3JMGG8",
+    "amount": "100",
+    "validUntil": "2000-01-01",
+    "createdAt": "2025-12-02T19:13:48.207Z"
+  },
+  {
+    "id": "MHOJ2W3X",
+    "code": "ETS-100-MHOJ2W3X",
+    "amount": "100",
+    "validUntil": "2000-02-01",
+    "createdAt": "2025-12-02T19:14:05.686Z"
+  },
+  {
+    "id": "7S952DIX",
+    "code": "ETS-100-7S952DIX",
+    "amount": "100",
+    "validUntil": "2000-01-01",
+    "createdAt": "2025-12-02T19:15:27.385Z"
+  },
+  {
+    "id": "OH7PMNNK",
+    "code": "ETS-100-OH7PMNNK",
+    "amount": "100",
+    "validUntil": "2000-12-02",
+    "createdAt": "2025-12-02T19:15:52.097Z"
+  },
+  {
+    "id": "A1DS3BYE",
+    "code": "ETS-100-A1DS3BYE",
+    "amount": "100",
+    "validUntil": "2026-01-22",
+    "createdAt": "2025-12-02T19:16:16.079Z"
+  },
+  {
+    "id": "GZJWM7TZ",
+    "code": "ETS-100-GZJWM7TZ",
+    "amount": "100",
+    "validUntil": "2026-01-22",
+    "createdAt": "2025-12-02T19:17:09.412Z"
+  },
+  {
+    "id": "8EQG5QT5",
+    "code": "ETS-100-8EQG5QT5",
+    "amount": "100",
+    "validUntil": "2000-02-12",
+    "createdAt": "2025-12-02T19:17:28.290Z"
+  },
+  {
+    "id": "6YUJD4VZ",
+    "code": "ETS-100-6YUJD4VZ",
+    "amount": "100",
+    "validUntil": "2000-01-01",
+    "createdAt": "2025-12-02T19:17:46.844Z"
+  },
+  {
+    "id": "XL4XISW0",
+    "code": "ETS-100-XL4XISW0",
+    "amount": "100",
+    "validUntil": "2000-01-02",
+    "createdAt": "2025-12-02T19:18:03.604Z"
+  },
+  {
+    "id": "KRHI5UE2",
+    "code": "ETS-100-KRHI5UE2",
+    "amount": "100",
+    "validUntil": "2000-01-22",
+    "createdAt": "2025-12-02T19:21:45.350Z",
+    "used": false
+  },
+  {
+    "id": "2OWM5BNS",
+    "code": "ETS-100-2OWM5BNS",
+    "amount": "100",
+    "validUntil": "2000-01-01",
+    "createdAt": "2025-12-02T19:23:55.427Z",
+    "used": false
+  },
+  {
+    "id": "VC9X7V7O",
+    "code": "ETS-100-VC9X7V7O",
+    "amount": "100",
+    "validUntil": "2026-02-02",
+    "createdAt": "2025-12-02T19:27:46.331Z",
+    "used": false
+  },
+  {
+    "id": "NZE1S9DP",
+    "code": "ETS-400-NZE1S9DP",
+    "amount": "400",
+    "validUntil": "2026-02-02",
+    "createdAt": "2025-12-02T19:28:38.565Z",
+    "used": false
+  },
+  {
+    "id": "BK9AALRE",
+    "code": "ETS-100-BK9AALRE",
+    "amount": "100",
+    "validUntil": "2002-02-02",
+    "createdAt": "2025-12-02T19:44:45.513Z",
+    "used": false
+  }
+]
